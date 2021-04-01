@@ -18,6 +18,7 @@
     "fixturify-project": "^2.1.0",
     "rimraf": "^3.0.2"
   },
+  "type": "module",
   "engines": {
     "node": ">= 12.11.*"
   },

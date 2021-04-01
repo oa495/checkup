@@ -49,6 +49,7 @@
     "execa": "^5.0.0",
     "yeoman-test": "^3.0.0"
   },
+  "type": "module",
   "engines": {
     "node": ">= 12.11.*"
   },

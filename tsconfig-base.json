@@ -5,9 +5,9 @@
     "declarationMap": true,
     "sourceMap": true,
     "importHelpers": true,
-    "module": "ESNext",
+    "module": "esnext",
+    "target": "es2019",
     "strict": true,
-    "target": "es2017",
     "allowSyntheticDefaultImports": true,
     "baseUrl": ".",
     "paths": {
